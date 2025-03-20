@@ -2,6 +2,10 @@
 🚀 Student at Havana University | Aspiring Developer
 Passionate about coding and learning new technologies. Currently exploring software development and building projects to improve my skills. Let's connect and create something amazing! 💻✨
 
+<div style="text-align:center;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTA1N2FjZWMydGhlam1xMzYzZDlvajJhaWtybmt4NmY3MXZ5NWd4bWV1bmRlcWlwaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" alt="Texto alternativo" />
+</div>
+
 <div>
 <h3>Skills</h3> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
